@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there
+## Welcome to my about me page repo.
+## This page is dedicated to my projects and skillset.
 
 <!--
 **DewVine/DewVine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
